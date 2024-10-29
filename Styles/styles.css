@@ -5,13 +5,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .container {
-  max-width: 1000px;
+  max-width: 1200px;
   margin: auto;
 }
 
 .page-headline {
-  margin-left: -4rem;
+  font-size: 6rem;
+  margin-top: -1rem;
 }
+
 .article-container {
   position: fixed;
   top: 2rem;
