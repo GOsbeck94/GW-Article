@@ -4,6 +4,14 @@ h1, h2, h3, h4, h5, h6 {
   font-style: italic;
 }
 
+.container {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.page-headline {
+  margin-left: -4rem;
+}
 .article-container {
   position: fixed;
   top: 2rem;
