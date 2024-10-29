@@ -5,6 +5,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .container {
+  position: relative;
   max-width: 1200px;
   margin: auto;
 }
@@ -15,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .article-container {
-  position: fixed;
+  position: absolute;
   top: 2rem;
   right: 2rem;
   width: 500px;
