@@ -26,13 +26,13 @@ p {
 .graphic-one {
   position: absolute;
   top: -50px;
-  left: -50px;
+  right: -400px;
 }
 
 .graphic-two {
   position: absolute;
   bottom: 50px;
-  right: 100px;
+  left: 100px;
 }
 
 .article-container {
