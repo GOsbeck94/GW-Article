@@ -3,7 +3,7 @@
 html {
   margin: 0;
   overflow-x: hidden; 
-  background-image: url('../Images/wp6777757.webp') no-repeat center center fixed; 
+  background: url('../Images/wp6777757.webp') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
