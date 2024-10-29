@@ -31,8 +31,8 @@ p {
 
 .graphic-two {
   position: absolute;
-  bottom: 50px;
-  left: 100px;
+  bottom: 100px;
+  left: 0;
 }
 
 .article-container {
